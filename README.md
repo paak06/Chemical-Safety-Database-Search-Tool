@@ -1,7 +1,12 @@
 # Chemical-Safety-Database-Search-Tool
 
 ## How to use
-1. Install the required packagese.
+
+1. Install the required packages:
+```bash
+pip install -r requirements.txt
+```
+
 2. Run the applications using this code.
 ```bash
 streamlit run app.py
